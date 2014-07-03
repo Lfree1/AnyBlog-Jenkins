@@ -3,6 +3,8 @@ var moment = require('moment');
 var _ = require('underscore');
 var md5 = require('cloud/libs/md5.js');
 
+// this is a comment added for the sake of testing
+
 // Controller code in separate files.
 var postsController = require('cloud/controllers/posts.js');
 var commentsController = require('cloud/controllers/comments.js');
